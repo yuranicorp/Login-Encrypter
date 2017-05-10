@@ -1,6 +1,6 @@
 # Login-Encrypter
 Sebuah source code login dan register sistem, dan password akan dienkripsi ke dalam sandi Yurani Tistripnol
-
+<br />
 Default Account:
-Username: admin
-Password: admin
+<p>Username: admin</p>
+<p>Password: admin</p>
